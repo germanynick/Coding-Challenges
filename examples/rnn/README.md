@@ -1,0 +1,1 @@
+More details: https://github.com/llSourcell/recurrent_neural_network
